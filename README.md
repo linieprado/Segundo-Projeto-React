@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+![Reprograma Logo](https://www.reprograma.com.br/assets/img/logo-fundoclaro.png)
+# _TodasEmTech <span style= "color:purple">{REPROGRAMA}</span>_ :purple_heart:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub watchers](https://img.shields.io/github/watchers/linieprado/workshopReprograma?style=social)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReprogramaBr) ![GitHub forks](https://img.shields.io/github/forks/linieprado/workshopReprograma?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/linieprado/workshopReprograma?style=social) ![GitHub](https://img.shields.io/github/license/linieprado/workshopReprograma) 
 
-## Available Scripts
+MAIS UM PROJETINHO REACT DO ZERO - Turma On10 
 
-In the project directory, you can run:
+## :clipboard: _Sobre o Projeto_
 
-### `npm start`
+Meu Segundo Projeto React do Zero...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Conhecendo um pouco mais o React, nesse projeto consumi um API muito legal do bruxinho mais famoso de todos os tempos :zap:. 
+Esse projeto tem uma listinhas de todos os personagens de Harry Potter, nela você pode favoritar seu personagem favorito e buscar os personagem através de um input.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+HP-API: (https://hp-api.herokuapp.com/)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :pushpin: _Passo a passo_
 
-### `npm run build`
+Passo a passo do projeto, seguindo as orientações da [Simara Conceição](https://github.com/simaraconceicao):
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Criei um projeto react;
+2. Apaguei as informações default;
+3. Consuma uma API externa
+4. Criei um componente título que recebe o texto: "Meu Segundo Projeto React do Zero", a ser renderizado por props ou children
+5. Criei um componente que mapeia os dados da lista da API e retorna uma lista, ele também tem um input que pega o texto digitado para atualizar o estado do componente, mostrando na tela somente o valor digitado.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :hammer_and_wrench: _Tecnologias_
 
-### `npm run eject`
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :computer: _Como executar_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Pré-requisitos
+Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas [Git](https://git-scm.com/), e um editor para trabalhar com o código como o [Vscode](https://code.visualstudio.com/).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+#### Rodando a aplicação 
+1. Clone este repositório
+2. Acesse a pasta do projeto no seu terminal/cmd 
+3. Abra a pasta no Vscode e um novo terminal
+4. No diretório do projeto digite o comando:  `npm start`
+5. Para ver no browser abra [http://localhost:3000](http://localhost:3000)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :globe_with_meridians: _Acesse outros Projetos_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Preview do Site [My First Page](https://alineprado.netlify.app/)
+Repositórios [GitHub](https://github.com/linieprado?tab=repositories)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## :woman_technologist: _Super Dev_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* [<img src="https://avatars.githubusercontent.com/u/79236944?s=400&u=115f3265d9e8d1c3a11a7a1aeb0ade7f6f15f577&v=4" width=115 > <br> <sub> Aline Prado </sub>](https://github.com/linieprado) 
+* [Instagram](https://www.instagram.com/linieprado/?hl=pt-br)
+* [Linkedin](https://www.linkedin.com/in/alinepradosilva/)
+* [Twitter](https://twitter.com/LiniePrados)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+| :---: | 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

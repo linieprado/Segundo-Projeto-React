@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing:border-box;
+}
+
+body{
+    color: rgb(255, 255, 255);
+    background: linear-gradient(329.54deg, #c7b830 0%, #310d0d 100%), #253a26;
+}
+
+body, input, button, textarea{
+    font-family: 'Harry Potter', sans-serif;
+}
+
